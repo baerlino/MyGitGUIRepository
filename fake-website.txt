@@ -1,3 +1,5 @@
 <<< Website goes here >>>
 
 <header>
+<body>
+<footer>
