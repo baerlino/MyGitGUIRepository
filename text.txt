@@ -4,3 +4,5 @@ mehr Text
 Neue Funktion
 
 Zweite Funktion
+
+Noch eine schöne Zeile
